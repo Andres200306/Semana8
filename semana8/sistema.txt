@@ -1,0 +1,14 @@
+Salida del comando `uname -a`:
+Linux codespaces-49a534 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+Salida del comando `whoami`:
+codespace
+
+Qué muestra cada comando:
+- `uname -a`: muestra información del kernel, nombre del host, versión del kernel, fecha de compilación y la arquitectura del sistema.
+- `whoami`: muestra el nombre del usuario con el que se está ejecutando la sesión actual.
+
+Por qué es útil conocer esta información al administrar un servidor:
+- Permite identificar la distribución y versión del kernel para aplicar actualizaciones o parches correctos.
+- Ayuda a diagnosticar problemas de compatibilidad de software y arquitectura (por ejemplo, x86_64 vs ARM).
+- Conocer el usuario actual es importante para verificar permisos y confirmar en qué cuenta se realizan cambios administrativos.

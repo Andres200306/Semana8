@@ -1,0 +1,7 @@
+Buenas prácticas de seguridad para plataformas comunitarias:
+
+1. No exponer datos personales: minimizar la información pública y anonimizar datos sensibles.
+2. Proteger credenciales: almacenar y transmitir contraseñas y tokens de forma segura (hashing, vaults).
+3. Usar conexiones seguras: habilitar HTTPS/TLS y políticas HSTS para proteger las comunicaciones.
+4. Registrar accesos: mantener logs de auditoría para detectar accesos no autorizados y acciones sospechosas.
+5. Limitar accesos: aplicar principio de menor privilegio y controles de acceso por roles.

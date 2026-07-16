@@ -1,0 +1,8 @@
+La seguridad digital es esencial para proteger plataformas comunitarias porque garantiza la confianza entre quienes participan.
+Sin medidas de seguridad, los datos personales y las decisiones colectivas pueden ser manipulados o filtrados.
+Proteger credenciales y comunicaciones evita suplantaciones y accesos no autorizados que afectan la participación.
+Las auditorías y registros permiten detectar y corregir comportamientos maliciosos a tiempo.
+El principio de menor privilegio reduce el riesgo de filtraciones accidentales o abuso interno.
+La encriptación y conexiones seguras protegen la integridad y confidencialidad de la información compartida.
+Promover buenas prácticas y formación en seguridad fortalece la resiliencia de la comunidad.
+En resumen, la seguridad preserva la privacidad, la integridad del proceso y la confianza necesaria para la participación.
